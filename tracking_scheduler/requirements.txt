@@ -1,6 +1,6 @@
 Flask_RESTful==0.3.6
 Flask==0.12.2
-Flask_Cors==3.0.3
+Flask_Cors==3.0.9
 Flask_Script==2.0.6
 pymongo==3.5.1
 python_bcrypt==0.3.2
